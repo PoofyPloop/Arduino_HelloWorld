@@ -1,7 +1,5 @@
 #include <Arduino.h>
-/**
- * Statement of authorship
- **/
+// @author: PoofyPloop
 
 void setup() {
   // put your setup code here, to run once:
