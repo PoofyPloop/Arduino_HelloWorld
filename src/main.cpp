@@ -9,7 +9,6 @@ void setup() {
 
   // print some text to the usb board
   Serial.println("\n\nHello, World!\n\n");
-  Serial.println("\n\nRawad Haddad, 000777218");
   Serial.println("\n\nChip ID: " + ESP.getChipId());
   Serial.println("\n\nChip Flash ID: " + ESP.getFlashChipId());
 }
